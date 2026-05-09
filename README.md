@@ -13,5 +13,8 @@ npm run preview
 ```
 
 And then open the web browser and go to the specified localhost address mentioned in the terminal upon running the last command.
+The output should be something like this:
 
+![Edit View](./edit_view.png)
+![Tree View](./tree_view.png)
 
